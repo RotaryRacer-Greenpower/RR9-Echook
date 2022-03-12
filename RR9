@@ -1,0 +1,37 @@
+eChook dweet data - demo page
+
+This is a very basic example web interface using Vue.js to fetch and show dweet.io data from an eChook, hosted for free on Github! If you want to create your own dashbard, feel free to fork this repository and make the site your own.
+
+For more information please go to the eChook documentation.
+
+Note: dweet.io is SLOW! Unfortunately it's now slower than when eChook started using it circa 2015. This site by default polls for new data every 5 seconds, but it will still occasionally rate limit.
+
+Enter your 'thing name' and hit go!
+echook
+ Go!
+Status: Idle
+Voltage: 0V
+
+Voltage Lower Battery: 0V
+
+Voltage Higher Battery: 0V
+
+Current: 0A
+
+RPM: 0RPM
+
+Speed: 0m/s
+
+Throttle: 0%
+
+Temp1: 0c
+
+Temp2: 0c
+
+Amp Hours Used: 0Ah
+
+Current Lap: 0
+
+Gear: 0
+
+Brake: 0
